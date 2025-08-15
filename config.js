@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "PROVIDE YOUR SESSION ID",
+SESSION_ID: process.env.SESSION_ID || "XTREME~XMD~zx4BlCaS#-b5LjSBsldnIbWPgrFb3YkmWYOtHW6e8HM4VqJLwtZE",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "false",
 // make true or false status auto seen
@@ -40,7 +40,7 @@ PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
 BOT_NAME: process.env.BOT_NAME || "𝐗𝐓𝐑𝐄𝐌𝐄 𝐗𝐌𝐃",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "༄☥🤴🏽᪳𝗝𝐔፝֟𝐒𝚻𝚵🌹᪳𝚸፝֟𝐑𝚰𝚴𝐂𝚵™☘️᪳࿐",
+STICKER_NAME: process.env.STICKER_NAME || "༄☥ 🎭𝕾𝖎 𝖙𝖔𝖚𝖙 𝖑𝖊𝖘 𝖒𝖔𝖓𝖉𝖊 𝖊𝖙  𝖈𝖔𝖓𝖙𝖗𝖊 𝖒𝖔𝖎, 𝖆𝖑𝖔𝖗𝖘 𝖙𝖔𝖚𝖙 𝖑𝖊 𝖒𝖔𝖓𝖉𝖊 𝖕𝖊𝖗𝖉𝖗𝖆𝖘🎭꧁༒☬𝐃𝐀𝐑𝐊 𝐖𝐎𝐋𝐅☬༒꧂࿐",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -48,9 +48,9 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "true",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "528145550855",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "243904581829",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "ᴘʀɪɴᴄᴇ",
+OWNER_NAME: process.env.OWNER_NAME || "꧁𓊈𒆜 𝘿𝘼𝙍𝙆 𝙒𝙊𝙇𝙁 𒆜𓊉꧂  ",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘʀɪɴᴄᴇ xᴛʀᴇᴍᴇ*",
 // add bot owner name    
@@ -84,6 +84,7 @@ DEV: process.env.DEV || "528145550855",
 //replace with your whatsapp number        
 ANTI_VV: process.env.ANTI_VV || "true",
 // true for anti once view 
-AUTO_RECORDING: process.env.AUTO_RECORDING || "false"
+AUTO_RECORDING: process.env.AUTO_RECORDING || "true
+"
 // make it true for auto recoding 
 };
